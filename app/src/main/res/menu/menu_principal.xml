@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Soma" android:id="@+id/soma" ></item>
+    <item android:title="Subtração" android:id="@+id/subtracao"></item>
+    <item android:title="Multiplicação" android:id="@+id/multiplicacao"></item>
+    <item android:title="Divisão" android:id="@+id/divisao"></item>
+</menu>
